@@ -11,3 +11,6 @@ Gergő és Luca a plakáton ötletelnek első orában, Marci addig megcsinálja 
 4-6 óra (2024.02.13)
 Verziókezelő renszerekkel való ismerkedés. Git használatának megismerése KRÉTA tanagyagok
 alapján:
+Marci: vitorla + magyar
+Gergő: röplabda + olasz
+Luca: vizilabda + francia
