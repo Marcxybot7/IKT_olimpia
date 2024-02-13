@@ -9,5 +9,5 @@ Ma sorsolták ki a csapatokat és elsőként kiválasztottuk témánkat mely az 
 Gergő és Luca a plakáton ötletelnek első orában, Marci addig megcsinálja a githubot és dokumentál
 
 4-6 óra (2024.02.13)
-Veziókezelő renszerekkel való ismerkedés. Git használatának megismerése KRÉTA tanagyagok
+Verziókezelő renszerekkel való ismerkedés. Git használatának megismerése KRÉTA tanagyagok
 alapján:
