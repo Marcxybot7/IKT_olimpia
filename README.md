@@ -15,5 +15,5 @@ alapján. Mindeki elkezdet gondolkozni a saját oldalán és neki is ált a html
 -Gergő: röplabda + olasz
 -Luca: vizilabda + francia
 
-7-9 óra (2024.02.20)
-Mindenki csinálja a saját 1-1 aloldalát és halladunk előre
+7-9. óra (2024.02.20)
+Ma mindenki elkezdte fejleszteni a saját oldalát. Megbeszéltük az egyező betűtípust.
