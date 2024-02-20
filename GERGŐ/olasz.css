@@ -2,7 +2,8 @@ body {
     background-color:azure;
 }
 
-.h1 {
+h1 {
     text-align:center;
-    color:red;
+    color:black;
+    background-image:url(italianflag.png);
 }
