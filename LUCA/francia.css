@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(231, 255, 146);
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+h1 {text-align: center;}
