@@ -14,3 +14,6 @@ alapján. Mindeki elkezdet gondolkozni a saját oldalán és neki is ált a html
 -Marci: vitorla + magyar
 -Gergő: röplabda + olasz
 -Luca: vizilabda + francia
+
+7-9. óra (2024.02.20)
+Ma mindenki elkezdte fejleszteni a saját oldalát. Megbeszéltük az egyező betűtípust.
