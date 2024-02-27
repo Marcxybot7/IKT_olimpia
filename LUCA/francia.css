@@ -6,13 +6,13 @@ body {
 h1 {text-align: center;}
 
 .retek { 
-    background-color: whitesmoke;
-    color:black;
+    color: pink;
     width: 100%;
-    float: left;
+    text-align: left;
 }
 
 .kep1 {
     width: 220px;
     height: 147px;
+    float:right;
 }
