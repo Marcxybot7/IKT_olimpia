@@ -16,7 +16,7 @@ alapján. Mindeki elkezdet gondolkozni a saját oldalán és neki is ált a html
 -Luca: vizilabda + francia
 
 7-9. óra (2024.02.20)
-Ma mindenki elkezdte fejleszteni a saját oldalát. Megbeszéltük az egyező betűtípust. Luca nekiállt a dokumentációnak, meg csinálta a kezdőlapot, a tartalom jegzéket, és a téma bemutatását. Marci megcsinálta a főoldal alapját, és egy picit fejlesztgette is.
+Mindenki elkezdte fejleszteni a saját oldalát. Megbeszéltük az egyező betűtípust. Luca nekiállt a dokumentációnak, megcsinálta a kezdőlapot, a tartalomjegyzéket, és a téma bemutatását. Marci megcsinálta a főoldal alapját, és egy picit fejlesztgette is. Gergő  a saját oldalát fejlesztgette.
 
 10-12. óra (2024.02.27)
-Mindenki folytatta a saját oldalának fejlesztését. Luca sírt(nem örömében). Gergő nevetett rajta.Lucának nem tetszett. Lucának nagyon nem ment. Marci hesszelt.
+Mindenki folytatta a saját oldalának fejlesztését. Marci a főoldalt fejlesztette, csinált rá egy képshowt. Gergő Lucának segített az ő oldalában, addig Luca sírt egy kört. Több kevesebb sikerrel meglett oldva a feladat és egy kis ismétlés is egyben.
