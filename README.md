@@ -19,4 +19,4 @@ alapján. Mindeki elkezdet gondolkozni a saját oldalán és neki is ált a html
 Ma mindenki elkezdte fejleszteni a saját oldalát. Megbeszéltük az egyező betűtípust. Luca nekiállt a dokumentációnak, meg csinálta a kezdőlapot, a tartalom jegzéket, és a téma bemutatását. Marci megcsinálta a főoldal alapját, és egy picit fejlesztgette is.
 
 10-12. óra (2024.02.27)
-Mindenki folytatta a saját oldalának fejlesztését.
+Mindenki folytatta a saját oldalának fejlesztését. Luca sírt(nem örömében). Gergő nevetett rajta.Lucának nem tetszett. Lucának nagyon nem ment. Marci hesszelt.
