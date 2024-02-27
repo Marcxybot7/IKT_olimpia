@@ -16,4 +16,7 @@ alapján. Mindeki elkezdet gondolkozni a saját oldalán és neki is ált a html
 -Luca: vizilabda + francia
 
 7-9. óra (2024.02.20)
-Ma mindenki elkezdte fejleszteni a saját oldalát. Megbeszéltük az egyező betűtípust.
+Ma mindenki elkezdte fejleszteni a saját oldalát. Megbeszéltük az egyező betűtípust. Luca nekiállt a dokumentációnak, meg csinálta a kezdőlapot, a tartalom jegzéket, és a téma bemutatását. Marci megcsinálta a főoldal alapját, és egy picit fejlesztgette is.
+
+10-12. óra (2024.02.27)
+Mindenki folytatta a saját oldalának fejlesztését.
