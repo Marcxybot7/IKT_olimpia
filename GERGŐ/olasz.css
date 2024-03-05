@@ -1,5 +1,3 @@
-
-
 h1 {
     text-align:center;
     color:black;
@@ -67,12 +65,23 @@ a:hover, a:active {
     float:left;
 }
 
-.tablazat1 {
-    width:75%;
+ul li {
+    background: rgb(245, 195, 195);
+    color: rgb(75, 0, 0);
+    margin: 5px;
 }
+    
 
 h3 {
     background-color:white;
-    border-left:solid red 3px;
+    border-left:solid rgb(117, 2, 2) 3px;
     text-align:center;
+}
+
+.lista0 {
+    width:25%;
+}
+
+.tablazat0 {
+    width:50%;
 }
