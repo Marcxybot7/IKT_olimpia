@@ -20,3 +20,6 @@ Mindenki elkezdte fejleszteni a saját oldalát. Megbeszéltük az egyező betű
 
 10-12. óra (2024.02.27)
 Mindenki folytatta a saját oldalának fejlesztését. Marci a főoldalt fejlesztette, csinált rá egy képshowt. Gergő Lucának segített az ő oldalában, addig Luca sírt egy kört. Több kevesebb sikerrel meglett oldva a feladat és egy kis ismétlés is egyben.
+
+13-15. óra (2024.03.05)
+Ma a kazán miatt csak 3 óra volt megtartva, ezért mindenki otthonról dolgozott most a saját és vagy a közös oldalon.
