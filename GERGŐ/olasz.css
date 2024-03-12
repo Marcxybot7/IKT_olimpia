@@ -60,9 +60,11 @@ a:hover, a:active {
 }
 
 .kep4 {
-    width:100%;
+    width:70%;
     height:100%;
-    float:left;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 ul li {
@@ -84,4 +86,8 @@ h3 {
 
 .tablazat0 {
     width:50%;
+}
+
+h3 {
+    text-align:center;
 }
