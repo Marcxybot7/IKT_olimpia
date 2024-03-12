@@ -1,11 +1,11 @@
 body {
-    background-color: rgb(91, 127, 205);
-    color: white;
+    background-color: ;
+    color: black;
 }
 
 h1 {text-align: center;}
 
-.retek { 
+.lista { 
     width: 100%;
     text-align: left;
 }
@@ -16,15 +16,6 @@ h1 {text-align: center;}
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
-
-.tablazat0 {
-    width: 100%;
-    color: black;
-}
-
-table,td,th {
-    border: solid 1px black;
 }
 
 .kiskep1 {
@@ -38,3 +29,13 @@ table,td,th {
     height: 50px;
     width: 75px;
 }
+
+.tablazat0 {
+    width: 100%;
+    color: black;
+}
+
+table,td,th {
+    border: solid 1px black;
+}
+
