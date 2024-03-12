@@ -1,0 +1,24 @@
+body {
+    background-image: url(homok.jpg);
+ }
+
+.cím1 {
+    text-align:center;
+}
+
+.szöveg1 {
+    background-color:wheat;
+    border-radius: 25px;
+    border: 2px solid #bdb000;
+    padding: 20px; 
+    width: 60%;
+    height: 100%; 
+}
+
+.kep1 {
+    width:100%;
+}
+
+.kep2 {
+    width:100%
+}
