@@ -23,3 +23,6 @@ Mindenki folytatta a saját oldalának fejlesztését. Marci a főoldalt fejlesz
 
 13-15. óra (2024.03.05)
 Ma a kazán miatt csak 3 óra volt megtartva, ezért mindenki otthonról dolgozott most a saját és vagy a közös oldalon.
+
+16-18. óra (2024.03.12)
+Ma is mindenki folytatta a saját oldalát, de persze volt egymásnak segítés is. Marci elkezdte a saját oldalát. Gergő 90%ba befejzte az egyik oldlaát, és elkezdte a másikat. Luca a saját oldalát folytatta, és dokumntált.
