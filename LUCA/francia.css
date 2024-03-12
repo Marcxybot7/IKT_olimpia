@@ -1,18 +1,41 @@
 body {
-    background-color: rgb(91, 127, 205);
-    color: white;
+    background-color: ;
+    color: black;
 }
 
 h1 {text-align: center;}
 
-.retek { 
-    color: black;
+.lista { 
     width: 100%;
     text-align: left;
 }
 
 .kep1 {
-    width: 220px;
-    height: 147px;
-    float:right;
+    width: 70%;
+    height: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
+
+.kiskep1 {
+    float: right;
+    height: 50px;
+    width: 75px;
+}
+
+.kiskep2 {
+    float: left;
+    height: 50px;
+    width: 75px;
+}
+
+.tablazat0 {
+    width: 100%;
+    color: black;
+}
+
+table,td,th {
+    border: solid 1px black;
+}
+
