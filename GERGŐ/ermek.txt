@@ -1,0 +1,33 @@
+argentina: 2
+brazilia: 24
+bulgária: 2
+csehszlovákia : 2
+usa: 22
+franciaország: 1
+hollandia: 3
+japán: 9
+kuba: 5
+lengyelország : 3
+ndk: 2
+olaszország: 7
+oroszország: 8
+románia: 1
+szerbia: 2
+jugoszlávia: 2
+szovjetunió: 12
+kanada: 1
+katar: 1
+lettország: 1
+németország: 3
+norvégia: 1
+spanyolország: 1
+svájc: 2
+dél-korea: 1
+független államok: 1
+észak-korea: 1
+kína: 8
+peru: 1
+ausztrália: 3
+
+
+
