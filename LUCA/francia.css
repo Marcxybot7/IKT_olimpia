@@ -6,7 +6,6 @@ body {
 h1 {text-align: center;}
 
 .retek { 
-    color: black;
     width: 100%;
     text-align: left;
 }
@@ -15,4 +14,13 @@ h1 {text-align: center;}
     width: 220px;
     height: 147px;
     float:right;
+}
+
+.tablazat0 {
+    width: 100%;
+    color: black;
+}
+
+table,td,th {
+    border: solid 1px black;
 }
