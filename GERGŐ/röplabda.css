@@ -4,12 +4,18 @@ body {
 
 .cím1 {
     text-align:center;
+    background-color:wheat;
+    border-left:white 4px solid;
+    border-right:white 4px solid;
+    border-bottom:white 4px solid;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
 }
 
 .szöveg1 {
     background-color:wheat;
     border-radius: 25px;
-    border: 2px solid #bdb000;
+    border: 4px solid white;
     padding: 20px; 
     width: 60%;
     height: 100%; 
@@ -17,8 +23,16 @@ body {
 
 .kep1 {
     width:100%;
+    border-radius: 25px;
+    border: 4px solid white;
+    width: 100%;
+    height: 100%;
 }
 
 .kep2 {
-    width:100%
+    width:100%;
+    border-radius: 25px;
+    border: 4px solid white;
+    width: 100%;
+    height: 100%;
 }
