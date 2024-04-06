@@ -1,0 +1,16 @@
+body {
+    color: black;
+    background-image: url(water-1018808_1280.jpg);
+}
+
+.kiskep1 {
+    float: right;
+    height: 50px;
+    width: 75px;
+}
+
+.kiskep2 {
+    float: left;
+    height: 50px;
+    width: 75px;
+}
