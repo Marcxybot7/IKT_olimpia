@@ -1,20 +1,20 @@
 argentina: 2
-brazilia: 24
+brazilia: 24   strand:13		sima: 11
 bulgária: 2
 csehszlovákia : 2
-usa: 22
+usa: 22  strand:11	sima:11
 franciaország: 1
 hollandia: 3
 japán: 9
 kuba: 5
 lengyelország : 3
 ndk: 2
-olaszország: 7
-oroszország: 8
+olaszország: 7  strand:1	sima:6
+oroszország: 8  strand:1	sima:7
 románia: 1
 szerbia: 2
 jugoszlávia: 2
-szovjetunió: 12
+szovjetunió: 12  strand:0	sima:12
 kanada: 1
 katar: 1
 lettország: 1
@@ -25,7 +25,7 @@ svájc: 2
 dél-korea: 1
 független államok: 1
 észak-korea: 1
-kína: 8
+kína: 8     strand:2	sima:6
 peru: 1
 ausztrália: 3
 
