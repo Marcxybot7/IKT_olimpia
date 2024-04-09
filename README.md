@@ -26,3 +26,7 @@ Ma a kazán miatt csak 3 óra volt megtartva, ezért mindenki otthonról dolgozo
 
 16-18. óra (2024.03.12)
 Ma is mindenki folytatta a saját oldalát, de persze volt egymásnak segítés is. Marci elkezdte a saját oldalát. Gergő 90%ba befejzte az egyik oldlaát, és elkezdte a másikat. Luca a saját oldalát folytatta, és dokumntált.
+
+
+?. óra (2024.04.09)
+Mivel sok óránk elmaradt, ezért elvesztettük az órák számolását. A mai órán mindenki itt volt, mindenki folytatta az oldalát. Luca hangulata egy picit feszült volt, mivel nem úgy haladt ahogy szerette volna. A csapat hangulata összességében jó volt, nevetgéltünk egy picit pl a hobbi lovagláson, vagy a sziámi ikrek jegyvásárlásán.
