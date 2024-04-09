@@ -30,11 +30,16 @@ h1 {text-align: center;}
 }
 
 .tablazat0 {
-    width: 100%;
+    width: 90%;
     color: black;
+    float: left;
 }
 
 table,td,th {
     border: solid 1px black;
+}
+
+.szoveg3 {
+    float: right;
 }
 
