@@ -1,2 +1,8 @@
 francia zászló kép: https://en.m.wikipedia.org/wiki/File:FanionPresident.svg
 francia google maps képe: google maps
+background-image: url(water-1018808_1280.jpg);
+    background-repeat:unset;
+    background-size: 100%;
+    background-attachment: fixed;
+
+    
