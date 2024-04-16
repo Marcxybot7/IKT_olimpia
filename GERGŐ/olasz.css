@@ -51,14 +51,6 @@ a:link, a:visited {
     width:100%;
 }
 
-a:hover, a:active {
-    background-image:url(italianflag.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 100%;
-    color:black;
-}
-
 .kep4 {
     width:70%;
     height:100%;
