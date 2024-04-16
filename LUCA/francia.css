@@ -1,5 +1,6 @@
 body {
     color: black;
+    background-color:lavender;
 }
 
 h1 {text-align: center;}
@@ -10,8 +11,8 @@ h1 {text-align: center;}
 }
 
 .kep {
-    width: 70%;
-    height: 90%;
+    width: 80%;
+    height: 100%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -45,10 +46,10 @@ table,td,th {
 
 
 .szoveg3 {
-    background-color: darkblue;
+    background-color:;
     border-radius: 25px;
-    border: solid 3px lightblue;
-    color: white;
+    border: solid 3px;
+    color:;
     padding: 20px;
     width: 60%;
     height: 100%;
