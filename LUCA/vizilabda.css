@@ -1,28 +1,25 @@
 body {
-    color: black;
-    background-image: url(water-1018808_1280.jpg);
-    background-repeat:unset;
-    background-size: 100%;
-    background-attachment: fixed;
+    background-color: lightblue;
 }
 
-.kiskep1 {
-    float: right;
-    height: 50px;
-    width: 75px;
+
+h1 {
+    text-align: center;
 }
 
-.kiskep2 {
-    float: left;
-    height: 50px;
-    width: 75px;
-}
 
 .szoveg1 {
-    background-color: lightskyblue;
+    background-color: darkblue;
+    color: white;
     border-radius: 25px;
-    border: 5px solid darkblue;
     width: 100%;
     height: 100%;
     padding: 25px;
+}
+
+
+.kep1 {
+    height: 100%;
+    width: 90%;
+    border: 5px solid white;
 }
