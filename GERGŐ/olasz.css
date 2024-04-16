@@ -97,3 +97,13 @@ h3 {
 .u {
     color:white;
 }
+
+.link2 {
+    width:100%;
+    text-align:center;
+}
+
+body{
+    font-family:'Times New Roman', Times, serif;
+    font-size:medium;
+}
