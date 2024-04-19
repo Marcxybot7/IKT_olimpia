@@ -7,7 +7,6 @@ h1 {text-align: center;}
 
 .lista { 
     width: 100%;
-    text-align: left;
 }
 
 .kep {
@@ -40,16 +39,18 @@ table,td,th {
     border: solid 1px black;
 }
 
+.szoveg1 {
+    width: 60%;
+    text-align: center;
+    margin-left: 250px;
+}
+
 .szoveg2 {
     float: right;
 }
 
 
 .szoveg3 {
-    background-color:;
-    border-radius: 25px;
-    border: solid 3px;
-    color:;
     padding: 20px;
     width: 60%;
     height: 100%;
@@ -65,14 +66,14 @@ table,td,th {
 }
 
 a:link, a:visited {
-    background-color: darkblue;
+    background-color: purple;
     color: white;
     padding: 14px 25px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     border-radius: 25px;
-    border: 4px solid lightblue;
+    border: 4px solid;
     width: 100%;
     height: 100%;
 }
@@ -81,3 +82,7 @@ body{
     font-family:'Times New Roman', Times, serif;
     font-size:medium;
 }
+
+
+
+

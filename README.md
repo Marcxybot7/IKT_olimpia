@@ -30,3 +30,6 @@ Ma is mindenki folytatta a saját oldalát, de persze volt egymásnak segítés 
 
 ?. óra (2024.04.09)
 Mivel sok óránk elmaradt, ezért elvesztettük az órák számolását. A mai órán mindenki itt volt, mindenki folytatta az oldalát. Luca hangulata egy picit feszült volt, mivel nem úgy haladt ahogy szerette volna. A csapat hangulata összességében jó volt, nevetgéltünk egy picit pl a hobbi lovagláson, vagy a sziámi ikrek jegyvásárlásán.
+
+?+3. óra (2024.04.16)
+Marci ma nem volt órán ezért nélküle haladtunk. Gergő beválalta az űrlap megcsinálását, mivel ő már befejezte az oldalait. Luca megírta hozzá a kérdéseket és a válaszokat, majd elkezdte megírni a dokumentációt. Emellett csinálta még az oldalát, mivel kicsit el van vele maradva.
