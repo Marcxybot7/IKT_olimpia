@@ -41,7 +41,7 @@ h2 {
     border-left:5px solid red;
 }
 
-a:link, a:visited {
+.atil:link, .atil:visited {
     background-color: red;
     color: white;
     padding: 14px 25px;
@@ -49,6 +49,32 @@ a:link, a:visited {
     text-decoration: none;
     display: inline-block;
     width:100%;
+}
+
+.ol:link, .ol:visited {
+    background-color: white;
+    color: black;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 25px;
+    border: 4px solid red;
+    width: 100%;
+    height: 100%;
+}
+
+.sl:link, .sl:visited {
+    background-color: white;
+    color: black;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 25px;
+    border: 4px solid red;
+    width: 100%;
+    height: 100%;
 }
 
 .kep4 {
