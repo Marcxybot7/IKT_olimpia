@@ -35,7 +35,7 @@ h1 {
 .kep3 {
     height: 25%;
     width: 60%;
-    margin-top: 90px;
+    margin-top: 70px;
     margin-left: 200px;
     border-radius: 25px;
 }
@@ -43,41 +43,16 @@ h1 {
 .kep4 {
     height: 25%;
     width: 60%;
-    margin-top: 90px;
+    margin-top: 70px;
     margin-left: 200px;
     border-radius: 25px;
 }
 
 
-.nagy {
-    height: 100%;
-    width: 100%;
-    border-radius: 25px;
-}
-
-.kemeny {
-    height: 100%;
-    width: 100%;
-    border-radius: 25px;
-}
-
-.benedek {
-    height: 100%;
-    width: 100%;
-    border-radius: 25px;
-}
-
-
 p {
-    text-align: center;
-    font-size: x-large;
+    text-align:center ;
+    font-size: large;
 }
-
-
-
-
-
-
 
 
 a:link, a:visited {
