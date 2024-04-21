@@ -7,8 +7,11 @@ body {
     margin: 0;
     padding: 0;
     font-family: "Poppins", sans-serif;
-    background: url('https://i.postimg.cc/W4HNgXyS/rajz.png') no-repeat center center fixed;
     background-size: cover;
+}
+.table-container {
+    overflow-x: auto;
+    height: 300px;
 }
 
 .navbar-nav {
@@ -28,5 +31,9 @@ body {
     }
     .navbar-toggler {
     margin-right: 10px;
+    }
+    .table-container {
+        height: 250px;
+        font-size: 10px;
     }
 }
